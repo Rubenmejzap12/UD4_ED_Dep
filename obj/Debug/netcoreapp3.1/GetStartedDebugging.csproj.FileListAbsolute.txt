@@ -1,0 +1,14 @@
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.exe
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.deps.json
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.json
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.dll
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfo.cs
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.dll
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+C:\Users\ruben\Desktop\1º DAW\Entornos Desarrollo\UD4\ProyectoVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.genruntimeconfig.cache
